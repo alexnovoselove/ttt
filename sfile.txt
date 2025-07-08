@@ -5,3 +5,8 @@ Let's open GitHub and create a repository.
 The next topic we will be looking at in our training is pulling the changes from a remote repository. 
 
 We will now simulate a situation where someone else has performed a commit and sent it to GitHub, and we will simply pull it.
+
+
+zzzzzzzzz goyda
+
+zz goyda
